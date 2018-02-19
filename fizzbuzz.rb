@@ -2,4 +2,3 @@
 def fizzbuzz
 end
 
-fizzbuzz
