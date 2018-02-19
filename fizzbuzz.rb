@@ -2,7 +2,9 @@
 def fizzbuzz
   
 if fizz_3
-  puts 
+  puts "Fizz"
+elseif
+  
 
 end
 
