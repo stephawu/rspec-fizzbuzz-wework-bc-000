@@ -1,1 +1,2 @@
-def fizzbuzz(fizzbuzz)
+def fizzbuzz(number)
+  if #{number
