@@ -1,12 +1,22 @@
 
 def fizzbuzz
   
-if fizz_3
+if fizz_3 = true
   puts "Fizz"
-if fizz_5
+end
+
+if fizz_5 = true
   puts "Buzz" 
-if fizz_15
+end
+
+if fizz_15 = true
   puts "FizzBuzz"
+end
+
+else
+  puts = "nil"
+end
+
   
 
 end
